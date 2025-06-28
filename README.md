@@ -46,8 +46,8 @@ To run this project on your local machine, you will need to have Node.js (versio
 
 First, clone this project to your local machine.
 ```bash
-git clone https://github.com/Eng-Mahmoud-Abdrabbou/La-Bibliothèque-de-Babel.git
-cd La-Bibliothèque-de-Babel
+git clone https://github.com/Eng-Mahmoud-Abdrabbou/La-Bibliotheque-de-Babel.git
+cd La-Bibliotheque-de-Babel
 ```
 
 #### 2. Set Up the Backend
