@@ -4,11 +4,11 @@ This project is a fully interactive, web-based implementation of Jorge Luis Borg
 
 The application is built with a modern web stack and features two distinct, switchable implementations of the library, each with its own philosophical and algorithmic foundation.
 
-![Project Screenshot](Assets\Main.png) 
+![Project Screenshot](Assets/Main.png) 
 
 ## Features
 
-![Project Screenshot](Assets\Use.png) 
+![Project Screenshot](Assets/Use.png) 
 
 *   **Dual Implementations:** Seamlessly switch between two different library models:
     1.  **LCG "Full Scale" Method:** A simulation of a chaotic, pseudo-random, and practically infinite universe, mirroring the feel of Borges' original story.
